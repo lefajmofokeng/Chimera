@@ -3,7 +3,7 @@
 Chimera is a high-fidelity, responsive web component designed for the elegant presentation of featured blog content. This project serves as an educational demonstration of modern front-end engineering principles, specifically focusing on semantic HTML5 structure, modular CSS design, and fluid responsive layouts.
 
 ## LIve Deployment
-[Previw Live Demo](https://thisislefa.github.io/Chimera)
+[Previw Live Demo](https://lefjmofokeng.github.io/Chimera)
 
 ## Technical Architecture
 
@@ -34,7 +34,7 @@ This project is a static front-end implementation designed for rapid deployment 
 
 1. **Repository Acquisition**:
 ```bash
-git clone https://github.com/thisislefa/Chimera.git
+git clone https://github.com/lefajmofokeng/Chimera.git
 cd Chimera
 
 ```
